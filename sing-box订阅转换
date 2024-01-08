@@ -1,0 +1,5 @@
+sing-box网络解析器
+
+使用您我搭建的网站实现配置实时更新，可作为sing-box的远程链接
+
+比如我搭建的网站https://sing-box-subscribe-dazheten-sigma-six.vercel.app/config/config/URL_LINK ，在网站后面添加，这里 URL_LINK指的是订阅链接
